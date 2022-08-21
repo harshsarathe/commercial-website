@@ -1,0 +1,2 @@
+# commercial-website
+developing an  E-commercial website for selling  different types of paper cups . Customers (Shopkeepers/Retailers) can directly purchase cups from the website and cups sold will be eco-friendly. The paper cups will be sold in different sizes and design. The customers will be able to choose from a wide variety of paper cups and can order the desired  size or design of paper cups in any amount  and the order shall be delivered at the convenient  place accordingly(as ordered by the Retailer).
